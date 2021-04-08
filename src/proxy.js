@@ -1,0 +1,1 @@
+export const apiEndpoint = "https://api.stackexchange.com/2.2/search/advanced";
